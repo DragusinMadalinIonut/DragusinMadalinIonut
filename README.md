@@ -20,6 +20,8 @@
 
 <br>
 - 🔭 I’m currently working on more original projects to add to my portofolio and for my degree
+</br>
+<br>
 - 🌱 I’m currently learning the technologies most used in my area
 </br>
 
