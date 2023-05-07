@@ -16,5 +16,10 @@
 <br />
 
 
-- 🔭 I’m currently working on more original projects to add to my portofolio
+
+
+<br>
+- 🔭 I’m currently working on more original projects to add to my portofolio and for my degree
 - 🌱 I’m currently learning the technologies most used in my area
+</br>
+
