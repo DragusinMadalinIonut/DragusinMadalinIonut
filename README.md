@@ -1,3 +1,5 @@
+Here's the updated code with the snake animation:
+
 ### Hi there 👋
 
 ### 🛠️ Languages and Tools
@@ -15,26 +17,12 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+<br />
 
-
-
-
-<br>
-- 🔭 I’m currently working on more projects to add to my portofolio and for my degree
-</br>
-<br>
-- 🌱 I’m currently learning the technologies most used in my area
-</br>
-
-
-```
 
 ![snake gif](https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/blob/output/github-contribution-grid-snake.gif)
 
+- 🔭 I’m currently working on more projects to add to my portfolio and for my degree
+- 🌱 I’m currently learning the technologies most used in my area
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture
 
