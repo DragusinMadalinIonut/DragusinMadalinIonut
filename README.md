@@ -2,6 +2,7 @@
 
 ### 🛠️ Languages and Tools
 
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -19,7 +20,7 @@
 
 
 <br>
-- 🔭 I’m currently working on more original projects to add to my portofolio and for my degree
+- 🔭 I’m currently working on more projects to add to my portofolio and for my degree
 </br>
 <br>
 - 🌱 I’m currently learning the technologies most used in my area
