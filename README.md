@@ -24,7 +24,8 @@
 
 <br>
 
-<iframe src="https://snekgames.com/games/embed/eating" width="480" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+[<img src="https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/blob/main/assets/snake-game.png">](https://dragusinmadalinionut.github.io/snake-game/)
+
 
 
 
