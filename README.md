@@ -15,19 +15,18 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-<br />
-<p align="center">
-  <a href="https://github.com/DragusinMadalinIonut">
-    ![snake gif](https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/blob/output/github-contribution-grid-snake.gif)
 
-  </a>
-</p>
 
+
+
+<br>
 - 🔭 I’m currently working on more projects to add to my portfolio and for my degree
+</br>
+<br>
 - 🌱 I’m currently learning the technologies most used in my area
+</br>
 
 
-- 🔭 I’m currently working on more projects to add to my portfolio and for my degree
-- 🌱 I’m currently learning the technologies most used in my area
+![snake gif](https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/raw/output/github-contribution-grid-snake.gif)
 
 
