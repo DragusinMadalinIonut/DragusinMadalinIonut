@@ -24,8 +24,5 @@
 
 <br>
 
-[<img src="https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/blob/main/assets/snake-game.png">](https://dragusinmadalinionut.github.io/snake-game/)
-
-
 
 
