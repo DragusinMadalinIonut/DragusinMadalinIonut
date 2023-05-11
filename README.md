@@ -28,6 +28,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DragusinMadalinIonut&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### :fire: Most Used Languages :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragusinMadalinIonut&layout=compact&theme=vision-friendly-dark)](https://github.com/DragusinMadalinIonut/github-readme-stats)
+
 ## Contact 
 <div> 
 <a href="https://www.linkedin.com/in/dragusin-madallin-b016b3239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
