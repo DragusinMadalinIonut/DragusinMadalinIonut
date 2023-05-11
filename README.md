@@ -16,6 +16,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+
+
 <br>
 - 🔭 I’m currently working on more projects to add to my portofolio and for my degree
 </br>
@@ -23,5 +25,9 @@
 - 🌱 I’m currently learning the technologies most used in my area
 </br>
 
-![snake gif](https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/blob/main/github-contribution-grid-snake.gif)
+<p align="center">
+  <a href="https://github.com/DragusinMadalinIonut/DragusinMadalinIonut">
+    <img src="https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/raw/output/github-contribution-grid-snake.gif" alt="Snake eating game effect" />
+  </a>
+</p>
 
