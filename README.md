@@ -16,18 +16,15 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+<br>
 
+- 🔭 I’m currently working on more projects to add to my portfolio and for my degree.
+
+- 🌱 I’m currently learning the technologies most used in my area.
 
 <br>
-- 🔭 I’m currently working on more projects to add to my portofolio and for my degree
-</br>
-<br>
-- 🌱 I’m currently learning the technologies most used in my area
-</br>
 
-<p align="center">
-  <a href="https://github.com/DragusinMadalinIonut/DragusinMadalinIonut">
-    <img src="https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/raw/output/github-contribution-grid-snake.gif" alt="Snake eating game effect" />
-  </a>
-</p>
+<iframe src="https://snekgames.com/games/embed/eating" width="480" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 
