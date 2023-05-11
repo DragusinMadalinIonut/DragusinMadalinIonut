@@ -18,7 +18,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/DragusinMadalinIonut">
-    <img src="https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/blob/output/github-contribution-grid-snake.svg" alt="snake">
+    ![snake gif](https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/blob/output/github-contribution-grid-snake.gif)
+
   </a>
 </p>
 
