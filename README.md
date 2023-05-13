@@ -19,8 +19,11 @@ Hi there 👋
 <img align="left" alt="phpMyAdmin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" />
 <br />
 
+<div>
 🔭 I’m currently working on more projects to add to my portfolio and for my degree.
 🌱 I’m currently learning the most used technologies in my area.
+  </div>
+  
 <br />
 
 
