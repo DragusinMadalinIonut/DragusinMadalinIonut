@@ -19,6 +19,7 @@
 <img align="left" alt="phpMyAdmin" width="30px" style="padding-right:10px;" src="https://www.phpmyadmin.net/favicon.ico" />
 
 
+
 <br /><br />
 
 - 🔭 I’m currently working on more projects to add to my portfolio and for my degree.
