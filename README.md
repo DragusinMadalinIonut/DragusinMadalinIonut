@@ -1,6 +1,7 @@
 
 Hi there 👋
 🛠️ Languages and Tools
+<br>
 <img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -16,11 +17,12 @@ Hi there 👋
 <img align="left" alt="Matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="phpMyAdmin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" />
-<br /><br />
-
+<br />
+<br />
+<br> 
 🔭 I’m currently working on more projects to add to my portfolio and for my degree.
 🌱 I’m currently learning the most used technologies in my area.
-<br /><br />
+<br />
 
 
 ### :fire: My Stats :
