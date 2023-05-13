@@ -16,7 +16,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="phpMyAdmin" width="30px" style="padding-right:10px;" src="https://www.phpmyadmin.net/favicon.ico" />
+<img src="https://www.phpmyadmin.net/wp-content/themes/PMAC/assets/img/logo-regular.svg" alt="phpMyAdmin" width="100px" />
+
 
 
 
