@@ -1,4 +1,3 @@
-
 ### Hi there 👋
 
 ### 🛠️ Languages and Tools
@@ -18,10 +17,6 @@
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<a href="https://www.phpmyadmin.net/" target="_blank" rel="noopener noreferrer">
-
-
-
 
 <br /><br />
 
@@ -29,7 +24,6 @@
 - 🌱 I’m currently learning the technologies most used in my area.
 
 <br /><br />
-  
 
 ### :fire: My Stats :
 
@@ -42,13 +36,10 @@
 ## Contact 
 <div> 
 <a href="https://www.linkedin.com/in/dragusin-madallin-b016b3239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:dragusin.madalin.ionut@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
- 
-  ![snake gif](https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/blob/main/github-contribution-grid-snake.gif)
- 
+<a href="mailto:dragusin.madalin.ionut@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<br />
 
-
+<!-- Snake Game -->
+![snake gif](https://github.com/DragusinMadalinIonut/DragusinMadalinIonut/blob/main/github-contribution-grid-snake.gif)
