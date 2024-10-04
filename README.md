@@ -17,10 +17,13 @@
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Vivado" width="30px" style="padding-right:10px;" src="https://example.com/path/to/vivado-icon.svg" />
+<img align="left" alt="Vitis" width="30px" style="padding-right:10px;" src="https://example.com/path/to/vitis-icon.svg" />
+
 
 <br /><br />
 
-- 🔭 I’m currently working on more projects to add to my portfolio and for my degree.
+- 🔭 I’m currently working on more projects to add to my portfolio. I successfully finished my computer science degree.
 - 🌱 I’m currently learning the technologies most used in my area.
 
 <br /><br />
